@@ -1,14 +1,14 @@
 {
-  "name": "AFK Bot",
+  "name": "AzxryJR",
   "bot-account": {
-    "username": "imgonnacream",
+    "username": "AzxryJR",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "7L_SMP_is_real.aternos.me",
-    "port": 62213,
-    "version": "",
+    "ip": "AzoryVerse-oon8.aternos.me",
+    "port": 56544,
+    "version": "1.21.4",
     "try-creative": false
   },
   "position": {
@@ -31,9 +31,9 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Slobos!",
-        "I like to play Minecraft!"
+        "I'm AzxryJr",
+        "Server Will be online 24/7",
+        "You Guys can play whenever u want!!"
       ]
     },
     "chat-log": true,
